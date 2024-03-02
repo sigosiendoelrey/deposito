@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Prueba {
+module Deposito {
 }
